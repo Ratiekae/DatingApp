@@ -1,6 +1,6 @@
 using Microsoft.AspNetCore.Mvc;
 using DatingApp.API.Data;
-using Miccrosoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Mvc;
 using DatingApp.API.Models;
 
 namespace DatingApp.API.Controllers
